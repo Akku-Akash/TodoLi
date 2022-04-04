@@ -1,0 +1,59 @@
+{
+  "todos": [
+    {
+      "title": "React",
+      "status": false,
+      "id": 1
+    },
+    {
+      "title": "Node",
+      "status": false,
+      "id": 2
+    },
+    {
+      "title": "CSS",
+      "status": false,
+      "id": 3
+    },
+    {
+      "title": "Recipe of Biriyani",
+      "status": false,
+      "id": 4
+    },
+    {
+      "title": "Jogging at 5am",
+      "status": false,
+      "id": 5
+    },
+    {
+      "title": "Complete React Assignment",
+      "status": false,
+      "id": 6
+    },
+    {
+      "title": "HTML",
+      "status": false,
+      "id": 7
+    },
+    {
+      "title": "Feeding my dog",
+      "status": false,
+      "id": 8
+    },
+    {
+      "title": "Watching pre-lecture at 9pm",
+      "status": false,
+      "id": 9
+    },
+    {
+      "title": "MongoDb practice",
+      "status": false,
+      "id": 10
+    },
+    {
+      "title": "Singing Practice at 6pm",
+      "status": false,
+      "id": 11
+    }
+  ]
+}
